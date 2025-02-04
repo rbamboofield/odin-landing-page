@@ -136,7 +136,7 @@ body {
 
 .s3-box {
     margin: 80px 200px;
-    padding: 40px 100px;
+    padding: 50px 120px;
     background-color: #3882F6;
     color: #E5E7EB;
     border-radius: 8px;
@@ -156,4 +156,12 @@ body {
     padding: 10px 30px;
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding: 40px 200px;
+    text-align: center;
 }
